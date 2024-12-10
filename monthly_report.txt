@@ -1,0 +1,4 @@
+Monthly Sales Report
+---------------------
+Total Sales: $15729
+Average Daily Sales: $524.30
